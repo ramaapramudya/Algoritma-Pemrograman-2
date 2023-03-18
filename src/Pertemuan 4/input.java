@@ -6,7 +6,7 @@ public class input {
         int usia, gaji;
 
         try (Scanner keyboard = new Scanner(System.in)) {
-            System.out.print("Pendataan Karyawan PT.ABC");
+            System.out.print("Pendataan Karyawan PT.XYZ");
             System.out.print("Nama Karyawan : ");
 
             nama = keyboard.next();

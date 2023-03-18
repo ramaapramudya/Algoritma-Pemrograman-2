@@ -23,9 +23,9 @@ public class kontrol {
 
         } else if (nilai >= 60) {
 
-            System.out.print("Maaf ya " + nama + ", Anda belum lulus");
+            System.out.print("Mohon maaf " + nama + ", Anda belum lulus");
         } else {
-            System.out.print("Bubarrr");
+            System.out.print("Selesai");
         }
     }
 }
